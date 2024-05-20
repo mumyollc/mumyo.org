@@ -1,6 +1,6 @@
 ---
 layout: page
-title: next concert
+title: 2024 upcoming project "euphoria"
 permalink: /euphoria/
 ---
 
