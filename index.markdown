@@ -5,4 +5,3 @@
 layout: home
 ---
 
-[<img src="/logogl.PNG" width="40%">](https://mumyo.org/gothicandlolita/)
