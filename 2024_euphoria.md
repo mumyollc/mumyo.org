@@ -4,13 +4,13 @@ title: next concert
 permalink: /euphoria/
 ---
 
-##  mumyo - euphoria (2024)
+#  mumyo - euphoria (2024)
 
-現在進行中のプロジェクト、次回コンサートについては、このページで逐次お知らせします。
+現在進行中のプロジェクトについては、このページで逐次お知らせします。
 
 {:toc}
 
-###  mumyo - euphoria / 愛知県・長久手市公演
+##  mumyo - euphoria / 愛知県・長久手市公演
 
 以下は、現時点で未確定の情報です。
 
@@ -30,7 +30,7 @@ permalink: /euphoria/
 * 本件について、長久手市への問い合わせはご遠慮ください。
 * プレス問い合わせ先 hijiri@mumyo.org 
 
-###  mumyo - euphoria / マスタークラス
+##  mumyo - euphoria / マスタークラス
 - <B>会場</B> 長久手市文化の家
 - <B>主催</B> 合同会社無名、ほか調整中
 - <B>予定日時</B> 2024年9月6日(金曜日) 時刻未定
@@ -41,15 +41,15 @@ permalink: /euphoria/
 * 本件について、長久手市および愛知県立芸術大学への問い合わせはご遠慮ください。
 * 問い合わせ先 hijiri@mumyo.org 
 
-###  関連トークイベント
+##  関連トークイベント
 - 詳細調整中
 
-###  mumyo - euphoria / Compact Disk
+##  mumyo - euphoria / Compact Disk
 
 * すでに録音は完了しています。
 * 発売日、発行枚数等は検討中。
 
-###  mumyo - euphoria / Bandcamp
+##  mumyo - euphoria / Bandcamp
 
 * 録音音源のオンラインでの配信と、ファンドレイジングを企画しています。
 * ファンドレイジングで得た資金については、コンサートの制作費[^seisakuhi]に優先して充当し、残余をCD制作費へ、さらに残余が生じた場合は、コンサートの出演料に充てます。
