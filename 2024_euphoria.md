@@ -47,9 +47,12 @@ permalink: /euphoria/
 ##  mumyo - euphoria / Compact Disk
 
 * すでに録音は完了しています。
-* 発売日、発行枚数等は検討中。
+* リリース方法、発売日、発行枚数等は検討中。
+* 問い合わせ先 hijiri@mumyo.org 
 
 ##  mumyo - euphoria / Bandcamp
+
+https://mumyo.bandcamp.com
 
 * 録音音源のオンラインでの配信と、ファンドレイジングを企画しています。
 * ファンドレイジングで得た資金については、コンサートの制作費[^seisakuhi]に優先して充当し、残余をCD制作費へ、さらに残余が生じた場合は、コンサートの出演料に充てます。
