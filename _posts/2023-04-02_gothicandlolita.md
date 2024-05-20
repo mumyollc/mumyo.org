@@ -1,9 +1,11 @@
 ---
-layout: page
-title: Gothic and Lolita
+layout: post
+title: Gothic and Lolita Project Archive
 permalink: /gothicandlolita/
+date: 2023-04-02 20:00:00 +0900
 ---
-#### ゴシック・アンド・ロリータ
+
+#### ゴシック・アンド・ロリータ プロジェクトの記録
 
 <img src="/logogl.PNG" width="45%">
 
