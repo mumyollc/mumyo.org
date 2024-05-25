@@ -30,7 +30,7 @@ permalink: /euphoria/
     -   一部 fixed media を併用
     -  山根明季子 -  複数の新曲初演
     -  梅本佑利 -  複数の新曲初演
-    -  [Alex Paxton](https://alexpaxtonmusic.com/)  - 題名未定 (改題世界初演)
+    -  [Alex Paxton](https://alexpaxtonmusic.com/)  - "Lurrv U" (改題世界初演)
           -  "FLORRID HORRID solo violin" (2022) を今回のコンサートにあわせて改題。
           -  原曲は、["FLORRID HORRID"](https://soundcloud.com/alex-paxton-2/florrid-horrid-excerpts/s-5Kevkfp1rSM?si=1f1906a33e3d43ab95f3600655bb3bc6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) (弦楽四重奏)
     -  [Ben Nobuto](https://bennobuto.com/) 作曲, 梅本佑利 編曲 - "BREAK-UP MANTRAS" for solo violin and fixed media (世界初演)
